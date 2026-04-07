@@ -1,3 +1,4 @@
 echo "print('Hello World')" > app.py
+print("New feature added")
 
  
