@@ -1,0 +1,1 @@
+echo "print('Version 1')" > version.py
